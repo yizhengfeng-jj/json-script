@@ -1,6 +1,6 @@
 {
   "name": "json-cli-script",
-  "version": "3.2.0",
+  "version": "3.2.1",
   "description": "json的脚手架",
   "main": "index.js",
   "bin": {
